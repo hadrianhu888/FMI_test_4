@@ -1,0 +1,12 @@
+﻿  rtGetInf.c
+  rtGetNaN.c
+  rt_nonfinite.c
+  test_fmi.c
+  test_fmi_capi.c
+  test_fmi_data.c
+  rt_malloc_main.c
+  rtw_modelmap_utils.c
+  rt_logging.c
+  rt_logging_mmi.c
+  Generating Code...
+  test_fmi.vcxproj -> F:\GitHubRepos\FMI_test_4\test_fmi_grt_rtw\msvc\x64\Debug\test_fmi.exe
