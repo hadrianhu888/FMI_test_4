@@ -1,0 +1,10 @@
+^D:\PROGRAM FILES\MATLAB\RTW\C\FMIKIT-SIMULINK-3.0\RTWSFCNFMI\CMAKELISTS.TXT
+setlocal
+"D:\Program Files\Matlab\rtw\c\FMIKit-Simulink-3.0\cmake-3.25.0-rc1-windows-x86_64\bin\cmake.exe" "-SD:/Program Files/Matlab/rtw/c/FMIKit-Simulink-3.0/rtwsfcnfmi" -BF:/GitHubRepos/FMI_test_4/test_fmi_rtwsfncfmi_cosim_sfcn_rtw_fmi --check-stamp-file F:/GitHubRepos/FMI_test_4/test_fmi_rtwsfncfmi_cosim_sfcn_rtw_fmi/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
