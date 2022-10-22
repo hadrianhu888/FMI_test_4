@@ -1,6 +1,0 @@
-﻿-IF:\GitHubRepos\FMI_test_4
--IF:\GitHubRepos\FMI_test_4\test_fmi_grt_rtw
--I"D:\Program Files\Matlab\extern\include"
--I"D:\Program Files\Matlab\simulink\include"
--I"D:\Program Files\Matlab\rtw\c\src"
--I"D:\Program Files\Matlab\rtw\c\src\ext_mode\common"

@@ -1,1 +1,0 @@
-var reportPages = [["Summary","test_fmi_rtwsfncfmi_mdlxchnge_sf_survey.html"],["Subsystem Report","test_fmi_rtwsfncfmi_mdlxchnge_sf_subsystems.html"]];

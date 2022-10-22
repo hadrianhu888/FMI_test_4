@@ -1,13 +1,14 @@
-message1 = "added new files"
+message= "added new files"
 git status
-git reset --hard
+#git reset --hard
 git pull -origin
 git add .
-git commit -m message1
-git push
+git commit -m message
+git push 
 git status
 git pull
 git status
+exit
 
-
+ 
 
